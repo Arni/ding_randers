@@ -1,6 +1,7 @@
 <?php
-
 /**
  * @file
- * Drupal needs this blank file.
+ * Code for the Ding Randers feature.
  */
+
+include_once 'ding_randers.features.inc';
